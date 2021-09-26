@@ -8,7 +8,6 @@ import { faShoppingCart } from '@fortawesome/free-solid-svg-icons';
 const Club = (props) => {
 
     const { club } = props;
-    console.log(club)
 
     // setting font awesome icon
     const cartIcon = <FontAwesomeIcon icon={faShoppingCart} />

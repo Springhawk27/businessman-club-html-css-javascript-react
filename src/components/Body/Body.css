@@ -1,8 +1,10 @@
+/* main body container  */
 .body-container {
     display: grid;
     grid-template-columns: 3fr 1fr;
 }
 
+/* businessman container in body  */
 .businessman-container {
     display: grid;
     grid-template-columns: 1fr 1fr  1fr;
