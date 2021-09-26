@@ -1,0 +1,102 @@
+[
+    {
+        "key": "a1b2c3d4e1",
+        "name": "Jeff Bezos",
+        "age": 57,
+        "founder": "Amazon",
+        "worth": 177,
+        "residence": "Seattle",
+        "country": "America",
+        "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5bb22ae84bbe6f67d2e82e05%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D627%26cropX2%3D1639%26cropY1%3D129%26cropY2%3D1142"
+    },
+    {
+        "key": "a1b2c3d4e2",
+        "name": "Elon Musk",
+        "age": 50,
+        "founder": "Tesla",
+        "worth": 151,
+        "residence": "Austin, Texas",
+        "country": "America",
+        "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f47d4de7637290765bce495%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D1699%26cropX2%3D3845%26cropY1%3D559%26cropY2%3D2704"
+    },
+    {
+        "key": "a1b2c3d4e3",
+        "name": "Bernard Arnault",
+        "age": 72,
+        "founder": "LVMH",
+        "worth": 150,
+        "residence": "Paris",
+        "country": "France",
+        "img": "https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e83999a458d700006815111%2FBernard-Arnault-%2F960x0.jpg%3Ffit%3Dscale"
+    },
+    {
+        "key": "a1b2c3d4e4",
+        "name": "Bill Gates",
+        "age": 65,
+        "founder": "Microsoft",
+        "worth": 124,
+        "residence": "Medina, Washington",
+        "country": "America",
+        "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5f4ebe0c87612dab4f12a597%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D292%26cropX2%3D3684%26cropY1%3D592%26cropY2%3D3987"
+    },
+    {
+        "key": "a1b2c3d4e5",
+        "name": "Mark Zuckerberg",
+        "age": 37,
+        "founder": "facebook",
+        "worth": 97,
+        "residence": "Palo Alto, California",
+        "country": "America",
+        "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5c76b7d331358e35dd2773a9%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D0%26cropX2%3D4401%26cropY1%3D0%26cropY2%3D4401"
+    },
+    {
+        "key": "a1b2c3d4e6",
+        "name": "Warren Buffett",
+        "age": 91,
+        "founder": "Berkshire Hathaway",
+        "worth": 96,
+        "residence": "Omaha, Nebraska",
+        "country": "America",
+        "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5babb7f1a7ea4342a948b79a%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D748%26cropX2%3D3075%26cropY1%3D1753%26cropY2%3D4082"
+    },
+    {
+        "key": "a1b2c3d4e7",
+        "name": "Larry Ellison",
+        "age": 77,
+        "founder": "Oracle",
+        "worth": 93,
+        "residence": "Lanai, Hawaii",
+        "country": "America",
+        "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5e8b62cfc095010007bffea0%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D0%26cropX2%3D4529%26cropY1%3D652%26cropY2%3D5184"
+    },
+    {
+        "key": "a1b2c3d4e8",
+        "name": "Larry Page",
+        "age": 48,
+        "founder": "Alphabet",
+        "worth": 91.5,
+        "residence": "Palo Alto, California",
+        "country": "America",
+        "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5c76bcaaa7ea43100043c836%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D227%26cropX2%3D2022%26cropY1%3D22%26cropY2%3D1817"
+    },
+    {
+        "key": "a1b2c3d4e9",
+        "name": "Sergey Brin",
+        "age": 48,
+        "founder": "Alphabet",
+        "worth": 89,
+        "residence": "Los Altos, California",
+        "country": "America",
+        "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5c7d7c254bbe6f78090d831f%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D475%26cropX2%3D2887%26cropY1%3D168%26cropY2%3D2582"
+    },
+    {
+        "key": "a1b2c3d4e10",
+        "name": "Mukesh Ambani",
+        "age": 64,
+        "founder": "Reliance Industries",
+        "worth": 84.5,
+        "residence": "Mumbai",
+        "country": "India",
+        "img": "https://thumbor.forbes.com/thumbor/fit-in/416x416/filters%3Aformat%28jpg%29/https%3A%2F%2Fspecials-images.forbesimg.com%2Fimageserve%2F5c7d7829a7ea434b351ba0b6%2F0x0.jpg%3Fbackground%3D000000%26cropX1%3D206%26cropX2%3D2043%26cropY1%3D250%26cropY2%3D2089"
+    }
+]

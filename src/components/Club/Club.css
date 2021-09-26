@@ -1,0 +1,24 @@
+.club {
+    
+    border: 1px solid #1AA79E;
+    border-radius: 5px;
+    text-align: center;
+    margin-left: 10px;
+    background-color: snow;
+    transition: 0.5s;
+
+
+}
+
+/* hover effect on single person */
+.club:hover {
+    box-shadow: 5px 5px 10px #41B5AE;
+    border-radius: 5px;
+    border: 1px solid #41B5AE;
+
+}
+
+.member-name {
+    border: 1px solid black;
+    display: block
+}
