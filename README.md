@@ -3,7 +3,7 @@
 Live Site Link:
 https://springhawk-businessman-club.netlify.app/
 
-## This Projects consists of:
+## This Project consists of:
 - HTML
 - CSS
 - Javascript
