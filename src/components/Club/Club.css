@@ -17,8 +17,11 @@
     border: 1px solid #41B5AE;
 
 }
+.club-title {
+    font-weight: 700;
+}
 
-.member-name {
-    border: 1px solid black;
-    display: block
+.member {
+    
+    display: block;
 }
